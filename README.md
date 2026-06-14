@@ -42,7 +42,7 @@ Summer-Project/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Summer-Project.git
+git clone https://github.com/nehalu460-prog/Summer-Project.git
 ```
 
 ### Navigate to the Repository
