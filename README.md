@@ -50,6 +50,10 @@ git clone https://github.com/nehalu460-prog/Summer-Project.git
 ```bash
 cd Summer-Project
 ```
+### Run a Project
+
+```bash
+python filename.py
 
 Explore individual project folders for project-specific instructions and documentation.
 
