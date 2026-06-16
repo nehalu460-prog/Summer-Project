@@ -17,7 +17,7 @@ def check_winner(player):
     ]
 
     for win in wins:
-        if all(board[i] == player for i in win):
+        if all( board[i] == player for i in win ):
             return True
     return False
 
